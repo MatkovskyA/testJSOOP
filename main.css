@@ -1,0 +1,27 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    max-width: 200px;
+    border: 2px solid gray;
+    padding: 20px;
+}
+
+.out-1 {
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    border: 1px solid red;
+    margin: 10px;
+}
+
+.out-2 {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 120, 47);
+    border: 1px solid red;
+    margin: 10px;
+
+}
